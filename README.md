@@ -22,7 +22,7 @@ Before running the script, configure your Roblox settings properly so the macro 
    chmod +x script.sh
    ```
 2. Run the script to activate it in the background:
-   ``./script.sh```
+   ```./script.sh```
 3. Open Roblox and press **`F8`** to trigger the macro.
 4. *(Optional)* Inspect the source code; it's completely safe.
 
