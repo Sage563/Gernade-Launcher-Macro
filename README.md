@@ -8,7 +8,7 @@ Before running the script, configure your Roblox settings properly so the macro 
 
 1. **Weapon Selector:** Set your weapon selector mode to **List**.
 2. **Favorite Your Grenade Launcher:** Ensure the Grenade Launcher is favorited so it sits at the very top of your weapon list.
-3. **Favorite Utilities & Secondaries:** Favorite your utilities and a few secondary weapons so the macro doesn't accidentally try to select red-blocked weapons.
+3. **Favorite Utilities & Melee:** Favorite your utilities and a few Melee weapons so the macro doesn't accidentally try to select red-blocked weapons.
 
 ## Compatibility
 
