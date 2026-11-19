@@ -1,6 +1,8 @@
 # Grenade-Launcher-Macro
 
-A Grenade Launcher macro for Linux (supports **Sober** and should work on most other setups).
+> **Disclaimer:** This macro is designed **only for Hyprland** (Wayland) and will not work on other window managers or desktop environments.
+
+A Grenade Launcher macro for Linux (supports **Sober**).
 
 ## Prerequisites & In-Game Setup
 
@@ -12,8 +14,8 @@ Before running the script, configure your Roblox settings properly so the macro 
 
 ## Compatibility
 
-* **Sober:** Tested and working.
-* **Other Linux setups:** Should work, though not officially tested.
+* **Window Manager:** **Hyprland only.**
+* **Roblox Client (Sober):** Tested and working.
 
 ## Usage
 
@@ -22,7 +24,9 @@ Before running the script, configure your Roblox settings properly so the macro 
    chmod +x script.sh
    ```
 2. Run the script to activate it in the background:
-   ```./script.sh```
+   ```bash
+   ./script.sh
+   ```
 3. Open Roblox and press **`F8`** to trigger the macro.
 4. *(Optional)* Inspect the source code; it's completely safe.
 
