@@ -17,10 +17,17 @@ Before running the script, configure your Roblox settings properly so the macro 
 
 ## Usage
 
-1. Run the script to activate it in the background.
-2. Open Roblox and press **`F8`** to trigger the macro.
-3. *(Optional)* Inspect the source code; it's completely safe.
+1. Make the script executable:
+   ```bash
+   chmod +x script.sh
+   ```
+2. Run the script to activate it in the background:
+   ``
+   ./script.sh
+   ```
+3. Open Roblox and press **`F8`** to trigger the macro.
+4. *(Optional)* Inspect the source code; it's completely safe.
 
 ## Troubleshooting
 
-* **Macro misses the Grenade Launcher:** If the script isn't clicking on the Grenade Launcher properly, open the script and adjust the **`x` and `y` coordinate values** to match your screen resolution.
+* **Macro misses the Grenade Launcher:** If the script isn't clicking on the Grenade Launcher properly, open `script.sh` and adjust the **`x` and `y` coordinate values** to match your screen resolution.
